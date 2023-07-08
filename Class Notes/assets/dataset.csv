@@ -1,0 +1,8 @@
+ID,City,Items,Price,Payment,Tax,Transaction
+1,Colombo,3,500,?,0.25,yes
+2,Singapore,2,1500,0,0.31,yes
+3,Singapore,4,2000,1,1.2,yes
+4,Tokyo,4300,1300,0,0.8,no
+5,Melbourne,6,1.3,0,0.5,no
+6,Singapore,4,1800,1,0.3,no
+7,?,5,700,1,0.4,yes
